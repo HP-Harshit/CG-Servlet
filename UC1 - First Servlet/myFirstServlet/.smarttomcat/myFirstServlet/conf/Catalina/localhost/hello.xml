@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Program Files\Apache Software Foundation\Tomcat 10.1\webapps">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/hnypa/Downloads/register/Hello-World-Servlet/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
