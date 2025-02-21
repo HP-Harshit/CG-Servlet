@@ -6,7 +6,7 @@
     <title>Login Success</title>
 </head>
 <body>
-    <h3>Hi <%= request.getAttribute("user") %>, Login successful.</h3>
+    <h3>Hi <%= request.getAttribute("name") %> (<%= request.getAttribute("user") %>), Login successful.</h3>
     <a href="login.html">Logout</a>
 </body>
 </html>
